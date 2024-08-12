@@ -10,10 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "@hiveio/dhive": "^0.14.1",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.2",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "lodash": "^4.17.19",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
     "signale": "^1.4.0"
   }
 }
